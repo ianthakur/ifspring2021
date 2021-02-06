@@ -1,0 +1,16 @@
+*{
+    color: azure;
+}
+body{
+    background-color: black;
+}
+.headers{
+    text-align: center;
+}
+.quotes{
+    padding-top: 5%;
+}
+.character{
+    font-weight: bold;
+    color: brown;
+}
