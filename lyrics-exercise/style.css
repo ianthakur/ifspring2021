@@ -1,0 +1,18 @@
+*{
+    text-align: center;
+}
+
+.heading{
+    text-align: center;
+}
+
+.stanza{
+    margin: auto;
+    border-bottom: 5px solid black;
+    border-bottom-width: thin;
+    width: 60%;
+}
+
+.lyrics{
+    text-align: center;
+}
