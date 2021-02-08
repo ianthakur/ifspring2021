@@ -1,7 +1,9 @@
 *{
     text-align: center;
 }
-
+body{
+    border-style: groove;
+}
 .heading{
     text-align: center;
 }
