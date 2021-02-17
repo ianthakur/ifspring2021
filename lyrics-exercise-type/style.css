@@ -1,0 +1,18 @@
+*{
+    text-align: center;
+    font-family: 'Alegreya', serif;
+    font-family: 'Architects Daughter', cursive;
+}
+
+.heading{
+    font-size: large;
+    font-size: bold; 
+}
+
+body{
+    border-style: groove;
+}
+
+.stanza.chorus{
+    font-weight: bold;
+}

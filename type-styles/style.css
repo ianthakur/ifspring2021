@@ -1,0 +1,69 @@
+*{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+section{
+    margin-bottom: 50px;
+}
+
+section.FontWeight p.Normal{
+    font-weight: normal;
+}
+
+section.FontWeight p.Bold{
+    font-weight: bold;
+}
+
+section.FontStyle p.Normal{
+    font-style: normal;
+}
+
+section.FontStyle p.Italic{
+    font-style: italic;
+}
+
+section.LetterSpacing p.Normal{
+    letter-spacing: normal;
+}
+
+section.LetterSpacing p.Wide{
+    letter-spacing: 0.3em;
+}
+
+section.LetterSpacing p.Narrow{
+    letter-spacing: -0.06em;
+}
+
+section.TextDecoration p.None{
+    text-decoration: none;
+}
+
+section.TextDecoration p.Underline{
+    text-decoration: underline;
+}
+
+section.TextDecoration p.LineThrough{
+    text-decoration: line-through;
+}
+
+section.TextDecoration p.Overline{
+    text-decoration: overline;
+}
+
+section.TextTransform p.None{
+    text-transform: none;
+}
+
+section.TextTransform p.Uppercase{
+    text-transform: uppercase;
+}
+
+section.TextTransform p.Lowercase{
+    text-transform: lowercase;
+}
+
+section.TextTransform p.Capitalize{
+    text-transform: capitalize;
+}
