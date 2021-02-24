@@ -61,7 +61,6 @@ section.cast li a div:nth-child(3){
 #game-of-thrones section.seasons ul::after{
   white-space: pre;
   content: "\A* Final Season";
-  /* content: "* Final Season"; */
   font-size: 0.7rem;
   color: #999;
 }
