@@ -46,6 +46,7 @@ section.cast li a div{
 }
 
 section.cast li a div:nth-child(2){
+  /* font-size: 0.8rem; */
   font-weight: bold;
 }
 
@@ -53,12 +54,13 @@ section.cast li a div:nth-child(3){
   font-style: italic;
 }
 
-#game-of-thrones section.seasons li::after{
-  content: (*);
+#game-of-thrones section.seasons li:last-child::after{
+  content: "*";
 }
 
 #game-of-thrones section.seasons ul::after{
-  content: "*Final Season";
+  white-space: pre;
+  content: "\A* Final Season";
   /* content: "* Final Season"; */
   font-size: 0.7rem;
   color: #999;
