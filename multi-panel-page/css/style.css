@@ -61,7 +61,7 @@ header.panel .subheading{
     margin: 0 0 36px 36px;
 }
 
-.gallery ul{
+ ul{
     display: grid;
     grid-template-columns: 1fr 1fr;
     margin: 0;
