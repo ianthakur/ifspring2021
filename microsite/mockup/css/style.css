@@ -1,8 +1,10 @@
 .a{
     background-image: url(desktop-wireframe.png);
     background-repeat: no-repeat;
-    height: 1000px;
+    height: 3000px;
     width: 100%;
+    background-size: cover;
+    margin-right: 5px;
 }
 
 .filler{
@@ -16,6 +18,8 @@
     background-repeat: no-repeat;
     /* background-position: center; */
     /* background-size: cover; */
-    height: 8000px;
-    width: 100%;
+    /* margin-right: 30px; */
+    height: 950px;
+    /* width: 1000px; */
+    /* width: 6000px; */
 }

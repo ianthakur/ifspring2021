@@ -1,0 +1,76 @@
+html{
+    font-family: 'Archivo Narrow', sans-serif;
+    color: aliceblue;
+}
+
+body{
+    margin: 0 10% 0 10%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWjtWbSOmuUrOQu5eW3K_XabO6IPrQQ_ms68XAnEOwv0st4p5lJqBWPKNI3Sf4PD7pl2iS4Hx9&usqp=CAc);
+    /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE8Nb0RENYyznJTt1eDAmLk3zhvPPrTZ_I9Q4xA1nTAX9sw7wTuGcvzgokk5AcrQpeRouqFW4&usqp=CAc); */
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+}
+
+h1, h2, h3, h4{
+    text-align: center;
+}
+
+header{
+    margin-top: 15%;
+    margin-bottom: 0;
+}
+
+header > h2{
+    font-size: 50px;
+    margin: 0;
+}
+
+header > h3{
+    font-size: 20px;
+}
+
+.part{
+    border-top: 3px;
+    border-top-style:solid;
+    border-top-color: brown;
+}
+
+ul{
+    padding: 0;
+}
+
+li > img{
+    width: 150px;
+}
+
+.history > li{
+    display: block;
+}
+
+
+/* 
+.nav-bar{
+    width: 100%;
+    position: fixed;
+    background-color: aquamarine;
+    height: 20%;
+}
+
+#home-button{
+    float: left;
+}
+
+#home-button{
+    font-size: 250%;
+    padding: 20% 20% 0 20%;
+    margin: auto;
+}
+
+.fa-guitar{
+    font-size: 250%;
+}
+
+.buttons{
+    float: right;
+    padding: 20%;
+} */
