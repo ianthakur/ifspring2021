@@ -1,0 +1,21 @@
+.a{
+    background-image: url(desktop-wireframe.png);
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 100%;
+}
+
+.filler{
+    height: 10px;
+    padding-bottom: 10px;
+}
+
+.b{
+    /* padding-top: 3000px; */
+    background-image: url(mobile-wireframe.png);
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    /* background-size: cover; */
+    height: 8000px;
+    width: 100%;
+}
