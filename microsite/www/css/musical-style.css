@@ -1,0 +1,39 @@
+body{
+    margin: 0 10% 0 10%;
+    padding-top: 150px;
+}
+
+header{
+    height: 150px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    font-size: 2rem;
+    position: fixed;
+    background-color:black;
+}
+.nav-items{
+    display: inline;
+}
+.buttons{
+    /* padding: 0 10% 0 10%; */
+    padding-top: 3rem;
+    padding-right: 5%;
+    padding-left: 5%;
+    text-decoration: none;
+    color: aliceblue;
+} 
+.home{
+    float: left;
+}
+.right{
+    float: right;
+}
+
+h1, h3{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
